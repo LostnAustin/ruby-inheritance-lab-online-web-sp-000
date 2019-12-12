@@ -6,5 +6,5 @@ class User
     @last_name = last_name
     @@all << self
   end
-  
+
 end
